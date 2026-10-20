@@ -15,6 +15,12 @@ I like experimenting with software development, AI-powered applications, and int
 
 ## 🚀 Featured Projects
 
+### 🧠 [Linear Attention Lab](https://github.com/Barou-gh/linera_attention_lab)
+
+An interactive visual explainer for Linear Attention, Softmax Attention, and their connection to Pathway's BDH architecture.
+
+**Focus:** Attention mechanisms · Interactive learning · AI concepts
+
 ### 🩺 [Dhatuposhana](https://github.com/Barou-gh/Dhatuposhana)
 
 Explore my project focused on presenting concepts through a web-based experience.
@@ -32,12 +38,6 @@ A Python-based student report system.
 A repository exploring specialised AI models and workflows for logo design.
 
 **Focus:** AI-assisted design · Generative applications
-
-### 🧠 [Linear Attention Lab](https://github.com/Barou-gh/linera_attention_lab)
-
-An interactive visual explainer for Linear Attention, Softmax Attention, and their connection to Pathway's BDH architecture.
-
-**Focus:** Attention mechanisms · Interactive learning · AI concepts
 
 ---
 
