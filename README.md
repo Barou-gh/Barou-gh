@@ -33,11 +33,11 @@ A Python-based student report system.
 
 **Focus:** Python · Application development
 
-### 🎨 [Inkloom](https://github.com/Barou-gh/inkloom)
+### 🚗 [Car Price Prediction](https://github.com/Barou-gh/car-price-prediction)
 
-A repository exploring specialised AI models and workflows for logo design.
+A machine learning-powered web application for estimating used car prices using trained models and data-driven insights.
 
-**Focus:** AI-assisted design · Generative applications
+**Focus:** Machine Learning · Python · Flask · Data Analysis · Predictive Modeling
 
 ---
 
